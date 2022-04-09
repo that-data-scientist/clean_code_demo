@@ -54,4 +54,6 @@ Project Organization
 
 ---------
 
+This is a example change to show the utility of git.
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
